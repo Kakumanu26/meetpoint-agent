@@ -31,7 +31,7 @@ adk web
 ```
 
 ## Demo
-🎥 [Demo video](VIDEO_LINK_HERE)
+🎥 [Demo video]([VIDEO_LINK_HERE](https://drive.google.com/file/d/16xP1beSE3gyqe-McI9DIqS8MlS02nZlC/view?usp=sharing))
 
 ## Built with
 Vibe-coded in **Google Antigravity** for the Kaggle x Google 5-Day AI Agents Intensive capstone - I acted as architect, the agent wrote the code.
